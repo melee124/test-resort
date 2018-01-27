@@ -1,6 +1,7 @@
 h1 {
   color: orange;
   text-align: right;
+  font-size: 100px
 }
 
 h2 {
@@ -15,3 +16,4 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
